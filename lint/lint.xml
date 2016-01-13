@@ -1,0 +1,10 @@
+<lint>
+    <issue id="InvalidPackage">
+        <ignore regexp="okio-1.0.0.jar"/>
+        <ignore regexp="okio-1.2.0.jar"/>
+    </issue>
+    <issue id="MissingTranslation">
+        <ignore regexp="ga_trackingId"/>
+        <ignore regexp="google_app_id"/>
+    </issue>
+</lint>
